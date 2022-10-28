@@ -33,7 +33,7 @@ active master.
 Just like in Debian, Fedora or similar. First we need to add a repository to our list:
 
 ```bash
-helm repo add activemq-artemis https://vromero.github.io/activemq-artemis-helm/
+helm repo add activemq-artemis https://burnata.github.io/activemq-artemis-helm/
 ```
 At this point when the package is searched for it should be found:
 
